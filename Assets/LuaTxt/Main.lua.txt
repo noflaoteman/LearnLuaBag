@@ -1,0 +1,11 @@
+require("InitClass")
+require("ItemData")
+require("PlayerData")
+PlayerData:Init()
+
+require("BasePanel")
+require("MainPanel")
+require("BagPanel")
+require("ItemGrid")
+require("TipPanel")
+MainPanel:ShowMe("MainPanel")
