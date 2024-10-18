@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1095581876
+CRC: 2543286080
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4542acf69316fc659cb34733cd439d8b
+    Hash: b609c0ccd15cb14da4eaedc4c129e861
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9fb531c3ce2d87711a21e10099bac523
+    Hash: a5cf2a44c7321b2432c8712bacd3b20e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,17 +18,15 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
@@ -37,6 +35,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 115
@@ -77,6 +77,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/ABRes/Prefabs/UI/MainPanel.prefab
 - Assets/ABRes/Prefabs/UI/TipPanel.prefab
+- Assets/ABRes/Prefabs/UI/TipPanelNoDrop.prefab
 - Assets/ABRes/Prefabs/UI/ItemGrid.prefab
 - Assets/ABRes/Prefabs/UI/BagPanel.prefab
 - Assets/ABRes/SpriteAltas/Icon.spriteatlas
