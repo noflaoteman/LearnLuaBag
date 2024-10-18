@@ -53,6 +53,6 @@ function BasePanel:ShowMe(name)
     self.panelObj:SetActive(true)
 end
 
-function BasePanel:HideMe()
+function BasePanel:HideMe(is)
     self.panelObj:SetActive(false)
 end

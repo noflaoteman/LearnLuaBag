@@ -8,6 +8,7 @@ Json = require("JsonUtility")
 --Unity
 GameObject = CS.UnityEngine.GameObject
 Camera = CS.UnityEngine.Camera
+Input = CS.UnityEngine.Input
 Resources = CS.UnityEngine.Resources
 Transform = CS.UnityEngine.Transform
 RectTransform = CS.UnityEngine.RectTransform
@@ -32,3 +33,4 @@ Entry = CS.UnityEngine.EventSystems.EventTrigger.Entry
 
 Canvas = GameObject.Find("Canvas").transform
 ABMgr = CS.ABMgr.GetInstance()
+InputManager = CS.InputManager.GetInstance()
