@@ -9,6 +9,7 @@ public class Main : MonoBehaviour
     {
         LuaMgr.GetInstance().Init();
         LuaMgr.GetInstance().DoLuaFile("Main");
-        InputManager.GetInstance();   
+        InputManager.GetInstance();
+
     }
 }

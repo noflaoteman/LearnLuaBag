@@ -16,7 +16,8 @@ InputManager.MouseDownLeftAction = function ()
 	local screenPosition = Vector2.zero
 	screenPosition.x=Input.mousePosition.x
 	screenPosition.y=Input.mousePosition.y
-	TipPanelNoDrop:ShowPanelByScreenPos(screenPosition,txtInfo,enumData)
+	local tipData = {isAlpha = true,isUp = true,tipContentText = "fjdlkafjdlkfjadsklfjdlk",isTypeText=true}
+	TipPanelNoDrop:ShowPanelByScreenPos(screenPosition,tipData)
 end
 
 --鼠标右键输入监听

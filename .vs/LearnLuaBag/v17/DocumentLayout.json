@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\dotween\\dotween examples\\basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\dotween\\dotween examples\\basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\dotween\\dotween examples\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\dotween\\dotween examples\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|c:\\alearnrousouse\\unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15unity\u70ED\u66F4\u65B0lua\\04xlua\u80CC\u5305\u5B9E\u8DF5\\learnluabag\\assets\\dotween\\dotween examples\\ugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\dotween\\dotween examples\\ugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\scripts\\csharpcalllualist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\csharpcalllualist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\xlua\\src\\luaenv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\xlua\\src\\luaenv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\dotween\\dotween examples\\materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\dotween\\dotween examples\\materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\scripts\\dotwentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dotwentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\dotween\\dotween examples\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\dotween\\dotween examples\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{52c6765d-88fe-4b1b-b532-37b9cf32f1b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basics.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Basics.cs",
+              "RelativeDocumentMoniker": "Assets\\Dotween\\DOTween Examples\\Basics.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Basics.cs",
+              "RelativeToolTip": "Assets\\Dotween\\DOTween Examples\\Basics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:10:15.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LuaEnv.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\XLua\\Src\\LuaEnv.cs",
+              "RelativeDocumentMoniker": "Assets\\XLua\\Src\\LuaEnv.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\XLua\\Src\\LuaEnv.cs",
+              "RelativeToolTip": "Assets\\XLua\\Src\\LuaEnv.cs",
+              "ViewState": "AQIAAG8BAAAAAAAAAAArwLgBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:19:46.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CsharpCallLuaList.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Scripts\\CsharpCallLuaList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CsharpCallLuaList.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Scripts\\CsharpCallLuaList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CsharpCallLuaList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:51:26.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DotwenTest.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Scripts\\DotwenTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DotwenTest.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Scripts\\DotwenTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DotwenTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:50:11.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:50:07.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UGUI.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\UGUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Dotween\\DOTween Examples\\UGUI.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\UGUI.cs",
+              "RelativeToolTip": "Assets\\Dotween\\DOTween Examples\\UGUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:40:50.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Materials.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Materials.cs",
+              "RelativeDocumentMoniker": "Assets\\Dotween\\DOTween Examples\\Materials.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Materials.cs",
+              "RelativeToolTip": "Assets\\Dotween\\DOTween Examples\\Materials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:16:45.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Follow.cs",
+              "RelativeDocumentMoniker": "Assets\\Dotween\\DOTween Examples\\Follow.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Follow.cs",
+              "RelativeToolTip": "Assets\\Dotween\\DOTween Examples\\Follow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:16:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paths.cs",
+              "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Paths.cs",
+              "RelativeDocumentMoniker": "Assets\\Dotween\\DOTween Examples\\Paths.cs",
+              "ToolTip": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Paths.cs",
+              "RelativeToolTip": "Assets\\Dotween\\DOTween Examples\\Paths.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:16:29.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 103,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

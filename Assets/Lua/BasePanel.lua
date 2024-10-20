@@ -9,27 +9,25 @@ function BasePanel:Init(name)
     if self.panelObj == nil then
         self.panelObj = ABMgr:LoadRes("ui", name, typeof(GameObject))
         self.panelObj.transform:SetParent(Canvas, false)
-        print(self.panelObj)
         local allControls = self.panelObj:GetComponentsInChildren(typeof(UIBehaviour))
         --Button btn名字
         --Toggle tog名字
         --Image img名字
         --ScrollRect sv名字
         for i = 0, allControls.Length-1 do
-            local controlName = allControls[i].name
-            if string.find(controlName, "btn") ~= nil or 
-               string.find(controlName, "tog") ~= nil or 
-               string.find(controlName, "img") ~= nil or 
-               string.find(controlName, "sv") ~= nil or
-               string.find(controlName, "txt") ~= nil then
+            local goControlName = allControls[i].name
+            if string.find(goControlName, "btn") ~= nil or 
+               string.find(goControlName, "tog") ~= nil or 
+               string.find(goControlName, "img") ~= nil or 
+               string.find(goControlName, "sv") ~= nil or
+               string.find(goControlName, "txt") ~= nil then
                 local typeName = allControls[i]:GetType().Name
                 --存储形式 例:
-                --{ btnRole = { Image = Component组件, Button =  Component组件 },
-                --  togItem = { Toggle =  Component组件} }
-                if self.controls[controlName] ~= nil then
-                    self.controls[controlName][typeName] = allControls[i]
+                --{ btnRole = { Image = Component组件, Button =  Component组件 }, togItem = { Toggle =  Component组件} }
+                if self.controls[goControlName] ~= nil then
+                    self.controls[goControlName][typeName] = allControls[i]
                 else
-                    self.controls[controlName] = {[typeName] = allControls[i]}
+                    self.controls[goControlName] = {[typeName] = allControls[i]}
                 end
             end
         end
@@ -53,6 +51,6 @@ function BasePanel:ShowMe(name)
     self.panelObj:SetActive(true)
 end
 
-function BasePanel:HideMe(is)
+function BasePanel:HideMe()
     self.panelObj:SetActive(false)
 end
