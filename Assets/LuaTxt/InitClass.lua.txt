@@ -20,6 +20,7 @@ Vector2 = CS.UnityEngine.Vector2
 
 --UI
 UI = CS.UnityEngine.UI
+CanvasGroup = CS.UnityEngine.CanvasGroup
 Image = UI.Image
 Text = UI.Text
 Button = UI.Button
