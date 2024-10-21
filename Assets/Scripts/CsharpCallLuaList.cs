@@ -45,7 +45,6 @@ public static class CsharpCallLuaList
         typeof(DG.Tweening.TweenSettingsExtensions),
         typeof(DG.Tweening.ShortcutExtensions),
         typeof(DG.Tweening.DOTweenModuleUI),
-        //有了以下这部分才能真正使用其他模块的拓展方法，这是其他帖子都没写的
         typeof(DG.Tweening.DOTweenModuleSprite),
         typeof(DG.Tweening.DOTweenModuleAudio),
        typeof(DG.Tweening.DOTweenModulePhysics),

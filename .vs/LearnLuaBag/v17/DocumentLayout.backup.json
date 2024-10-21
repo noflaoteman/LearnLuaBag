@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\weijie\\Test\\LearnLuaBag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|d:\\weijie\\test\\learnluabag\\assets\\scripts\\csharpcalllualist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\csharpcalllualist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|D:\\weijie\\Test\\LearnLuaBag\\assets\\scripts\\dotwentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dotwentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|D:\\weijie\\Test\\LearnLuaBag\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|D:\\weijie\\Test\\LearnLuaBag\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|D:\\weijie\\Test\\LearnLuaBag\\assets\\xlua\\src\\luaenv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\xlua\\src\\luaenv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|D:\\weijie\\Test\\LearnLuaBag\\assets\\scripts\\projectbase\\abmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\abmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|D:\\weijie\\Test\\LearnLuaBag\\assets\\scripts\\projectbase\\base\\singletonautomono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\base\\singletonautomono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsharpCallLuaList.cs",
+              "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\CsharpCallLuaList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CsharpCallLuaList.cs",
+              "ToolTip": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\CsharpCallLuaList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CsharpCallLuaList.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:10:04.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LuaEnv.cs",
+              "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\XLua\\Src\\LuaEnv.cs",
+              "RelativeDocumentMoniker": "Assets\\XLua\\Src\\LuaEnv.cs",
+              "ToolTip": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\XLua\\Src\\LuaEnv.cs",
+              "RelativeToolTip": "Assets\\XLua\\Src\\LuaEnv.cs",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAwwLgBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:15:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DotwenTest.cs",
+              "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\DotwenTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DotwenTest.cs",
+              "ToolTip": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\DotwenTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DotwenTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:50:59.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
+              "ToolTip": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:11:17.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ABMgr.cs",
+              "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\ProjectBase\\ABMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\ABMgr.cs",
+              "ToolTip": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\ProjectBase\\ABMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\ABMgr.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwGAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:11:10.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SingletonAutoMono.cs",
+              "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\ProjectBase\\Base\\SingletonAutoMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\Base\\SingletonAutoMono.cs",
+              "ToolTip": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\ProjectBase\\Base\\SingletonAutoMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\Base\\SingletonAutoMono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:11:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:04:41.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

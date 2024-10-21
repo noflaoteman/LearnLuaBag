@@ -7,10 +7,10 @@ function Object:new()
 	return obj
 end
 --继承
-function Object:subClass(className)
-	_G[className] = {}
-	local obj = _G[className]
-	obj.base = self
+function Object:subClass(sonClassName)
+	_G[sonClassName] = {}
+	local sonObj = _G[sonClassName]
+	sonObj.base = self
 	self.__index = self
-	setmetatable(obj, self)
+	setmetatable(sonObj, self)
 end

@@ -10,7 +10,7 @@ public class DotwenTest : MonoBehaviour
     void Start()
     {
         this.canvasGroup = GetComponent<CanvasGroup>();
-        canvasGroup.DOFade(0, 2);     
+        canvasGroup.DOFade(0, 2);
         //this.GetComponent()
     }
 }
