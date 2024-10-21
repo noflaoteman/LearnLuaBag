@@ -1,6 +1,7 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\weijie\\Test\\LearnLuaBag\\",
   "Documents": [
     {
@@ -31,6 +32,8 @@
       "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|D:\\weijie\\Test\\LearnLuaBag\\assets\\scripts\\projectbase\\base\\singletonautomono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\base\\singletonautomono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
+=======
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
   "WorkspaceRootPath": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\",
   "Documents": [
     {
@@ -68,6 +71,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\assets\\dotween\\dotween examples\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B474521B-7150-9F50-A6B8-F2E32A05FAE6}|Assembly-CSharp.csproj|solutionrelative:assets\\dotween\\dotween examples\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
+=======
 >>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
     }
   ],
@@ -81,6 +87,7 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+<<<<<<< HEAD
 <<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 1,
@@ -118,6 +125,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T08:50:59.975Z"
 =======
+=======
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
@@ -128,11 +137,15 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+<<<<<<< HEAD
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
+=======
 >>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
               "Title": "InputManager.cs",
               "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\InputManager.cs",
@@ -143,6 +156,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T06:11:17.65Z",
 =======
+=======
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
               "Title": "Basics.cs",
               "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\Basics.cs",
               "RelativeDocumentMoniker": "Assets\\Dotween\\DOTween Examples\\Basics.cs",
@@ -151,12 +166,16 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T15:10:15.879Z",
+<<<<<<< HEAD
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
+=======
 >>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+<<<<<<< HEAD
 <<<<<<< HEAD
               "Title": "ABMgr.cs",
               "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\ProjectBase\\ABMgr.cs",
@@ -179,6 +198,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T06:11:03.339Z"
 =======
+=======
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
               "Title": "LuaEnv.cs",
               "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\XLua\\Src\\LuaEnv.cs",
               "RelativeDocumentMoniker": "Assets\\XLua\\Src\\LuaEnv.cs",
@@ -224,11 +245,15 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T15:50:07.829Z",
               "EditorCaption": ""
+<<<<<<< HEAD
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
+=======
 >>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
 <<<<<<< HEAD
               "Title": "Main.cs",
               "DocumentMoniker": "D:\\weijie\\Test\\LearnLuaBag\\Assets\\Scripts\\Main.cs",
@@ -239,6 +264,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T06:04:41.842Z"
 =======
+=======
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
               "Title": "UGUI.cs",
               "DocumentMoniker": "C:\\ALearnRousouse\\Unity\u5B66\u4E60\u6587\u4EF6\u5939\\\u5510\u8001\u72EE\u8BFE\u7A0B\\15Unity\u70ED\u66F4\u65B0Lua\\04Xlua\u80CC\u5305\u5B9E\u8DF5\\LearnLuaBag\\Assets\\Dotween\\DOTween Examples\\UGUI.cs",
               "RelativeDocumentMoniker": "Assets\\Dotween\\DOTween Examples\\UGUI.cs",
@@ -295,6 +322,9 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+<<<<<<< HEAD
+>>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
+=======
 >>>>>>> 48419e1480ad99314945c951127e2b7870c2eaa1
             }
           ]
